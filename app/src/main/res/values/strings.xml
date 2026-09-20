@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiPokedex_ManjarrezLuis</string>
+    <string name="charmander">Charmander</string>
+    <string name="squirtle">Squirtle</string>
+    v<string name="bulbasaur">Bulbasaur</string>
+    <string name="tipo_charmander">Fuego</string>
+    <string name="tipo_bulbasaur">Planta</string>
+    <string name="tipo_bulbasaur2">Veneno</string>
+    <string name="tipo_squirtle">Agua</string>
+    <string name="num_pokemon2">#2</string>
+    <string name="num_pokemon3">#3</string>
+    <string name="num_pokemon1">#1</string>
+</resources>
