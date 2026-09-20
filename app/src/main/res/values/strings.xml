@@ -2,7 +2,9 @@
     <string name="app_name">MiPokedex_ManjarrezLuis</string>
     <string name="charmander">Charmander</string>
     <string name="squirtle">Squirtle</string>
-    v<string name="bulbasaur">Bulbasaur</string>
+    <string name="descripcion_charmander">La llama de su cola: Indica su salud y estado de ánimo. Si brilla con fuerza, está sano; si arde tenue, está débil; y si se apaga por completo, el Pokémon muere.</string>
+    <string name="habilidad_charmander">Mar de Llamas y Poder Solar</string>
+    <string name="bulbasaur">Bulbasaur</string>
     <string name="tipo_charmander">Fuego</string>
     <string name="tipo_bulbasaur">Planta</string>
     <string name="tipo_bulbasaur2">Veneno</string>
