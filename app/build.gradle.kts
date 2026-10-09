@@ -1,16 +1,17 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.compose.compiler)
+    kotlin("plugin.serialization") version "2.0.21"
 }
 
 android {
-    namespace = "gonzalez.carlos.mipokedex_manjarrezluis"
+    namespace = "g.c.mipokedex_manjarrezluis"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "gonzalez.carlos.mipokedex_manjarrezluis"
+        applicationId = "g.c.mipokedex_manjarrezluis"
         minSdk = 27
         targetSdk = 37
         versionCode = 1
@@ -36,6 +37,7 @@ android {
 }
 
 dependencies {
+    implementation(libs.androidx.navigation.compose)
     val composeBom = platform(libs.androidx.compose.bom)
 
     implementation(composeBom)

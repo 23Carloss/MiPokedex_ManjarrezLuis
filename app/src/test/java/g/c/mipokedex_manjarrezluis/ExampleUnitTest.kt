@@ -1,4 +1,4 @@
-package gonzalez.carlos.mipokedex_manjarrezluis
+package g.c.mipokedex_manjarrezluis
 
 import org.junit.Test
 

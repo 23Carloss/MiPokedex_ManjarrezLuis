@@ -1,4 +1,4 @@
-package gonzalez.carlos.mipokedex_manjarrezluis
+package g.c.mipokedex_manjarrezluis
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("gonzalez.carlos.mipokedex_manjarrezluis", appContext.packageName)
+        assertEquals("g.c.mipokedex_manjarrezluis", appContext.packageName)
     }
 }
